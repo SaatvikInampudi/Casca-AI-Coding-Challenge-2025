@@ -1,0 +1,338 @@
+[
+    {
+      "date": "04 Sep19",
+      "description": "LNK COOPERATIVE SW CD 4821 08DEC19",
+      "type": "CPT",
+      "amount_in": 0.00,
+      "amount_out": 300.00,
+      "balance": 873.56
+    },
+    {
+      "date": "09 Sep19",
+      "description": "P ADAMCZUK KASA 7420",
+      "type": "TFR",
+      "amount_in": 50.00,
+      "amount_out": 0.00,
+      "balance": 923.56
+    },
+    {
+      "date": "11 Sep19",
+      "description": "BARCLAYCARD CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 2.50,
+      "balance": 921.06
+    },
+    {
+      "date": "15 Sep19",
+      "description": "WESTERN VILLA CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 240.00,
+      "balance": 681.06
+    },
+    {
+      "date": "16 Sep19",
+      "description": "WINELEAF CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 26.69,
+      "balance": 654.37
+    },
+    {
+      "date": "17 Sep19",
+      "description": "LNK COOPERATIVE SW CD 7420 06DEC19",
+      "type": "CPT",
+      "amount_in": 200.00,
+      "amount_out": 0.00,
+      "balance": 454.37
+    },
+    {
+      "date": "18 Sep19",
+      "description": "LV LIFE 03592291015W",
+      "type": "DD",
+      "amount_in": 0.00,
+      "amount_out": 33.03,
+      "balance": 421.34
+    },
+    {
+      "date": "22 Sep19",
+      "description": "PARK FOOD AND WINE CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 30.46,
+      "balance": 390.88
+    },
+    {
+      "date": "22 Sep19",
+      "description": "LNK COOPERATIVE SW CD 7420 05DEC19",
+      "type": "CPT",
+      "amount_in": 20.00,
+      "amount_out": 0.00,
+      "balance": 370.88
+    },
+    {
+      "date": "25 Sep19",
+      "description": "LNK COOPERATIVE SW CD 7420 03DEC19",
+      "type": "CPT",
+      "amount_in": 200.00,
+      "amount_out": 0.00,
+      "balance": 170.88
+    },
+    {
+      "date": "26 Sep19",
+      "description": "UBER *TRIP LJSAM",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 17.43,
+      "balance": 153.45
+    },
+    {
+      "date": "29 Sep19",
+      "description": "D ROBERTSON",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 960.00,
+      "balance": 1113.45
+    },
+    {
+      "date": "03 Oct19",
+      "description": "WINELEAF CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 17.00,
+      "balance": 1096.45
+    },
+    {
+      "date": "05 Oct19",
+      "description": "KATE EYR G D LTD KEGD RP467996826950500",
+      "type": "FPI",
+      "amount_in": 790.00,
+      "amount_out": 0.00,
+      "balance": 1886.45
+    },
+    {
+      "date": "08 Oct19",
+      "description": "LNK COOPERATIVE SW CD 7420 01DEC19",
+      "type": "CPT",
+      "amount_in": 100.00,
+      "amount_out": 0.00,
+      "balance": 1786.45
+    },
+    {
+      "date": "12 Oct19",
+      "description": "LNK PO MITCHAM LAN CD 7420 30NOV19",
+      "type": "CPT",
+      "amount_in": 10.00,
+      "amount_out": 0.00,
+      "balance": 1776.45
+    },
+    {
+      "date": "12 Oct19",
+      "description": "MIS BAR MLECZNY CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 28.90,
+      "balance": 1747.55
+    },
+    {
+      "date": "16 Oct19",
+      "description": "SPORTSDIRECT 252 CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 27.99,
+      "balance": 1719.56
+    },
+    {
+      "date": "19 Oct19",
+      "description": "KATE EYR G D LTD KEGD RP4679969433992900",
+      "type": "FPI",
+      "amount_in": 860.00,
+      "amount_out": 0.00,
+      "balance": 1849.56
+    },
+    {
+      "date": "22 Oct19",
+      "description": "LOYD STREATHAM HIG",
+      "type": "CSH",
+      "amount_in": 730.00,
+      "amount_out": 0.00,
+      "balance": 2579.56
+    },
+    {
+      "date": "23 Oct19",
+      "description": "A FARAFOSZYN",
+      "type": "TFR",
+      "amount_in": 0.00,
+      "amount_out": 100.00,
+      "balance": 2479.56
+    },
+    {
+      "date": "23 Oct19",
+      "description": "WINELEAF CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 10.50,
+      "balance": 2469.06
+    },
+    {
+      "date": "24 Oct19",
+      "description": "LNK PO MITCHAM LAN CD 7420 11SEP15",
+      "type": "CPT",
+      "amount_in": 0.00,
+      "amount_out": 150.00,
+      "balance": 2319.06
+    },
+    {
+      "date": "27 Oct19",
+      "description": "MCDONALDS CD7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 25.79,
+      "balance": 2293.67
+    },
+    {
+      "date": "30 Oct19",
+      "description": "SUPER CHOICE CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 76.60,
+      "balance": 2216.67
+    },
+    {
+      "date": "05 Nov19",
+      "description": "TESCO STORES 6765 CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 42.60,
+      "balance": 2174.07
+    },
+    {
+      "date": "06 Nov19",
+      "description": "CROY CTRL 773001",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 200.12,
+      "balance": 2374.07
+    },
+    {
+      "date": "07 Nov19",
+      "description": "VODAFONE LTD 7014378191-1001",
+      "type": "DD",
+      "amount_in": 0.00,
+      "amount_out": 50.00,
+      "balance": 2324.07
+    },
+    {
+      "date": "11 Nov19",
+      "description": "LOYD ROYDON CENTR CD 7420",
+      "type": "CPT",
+      "amount_in": 0.00,
+      "amount_out": 200.00,
+      "balance": 2124.07
+    },
+    {
+      "date": "13 Nov19",
+      "description": "NIKE FACTORY STORE CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 250.00,
+      "balance": 1874.07
+    },
+    {
+      "date": "13 Nov19",
+      "description": "LOYD STREATHAM HIG",
+      "type": "CSH",
+      "amount_in": 0.00,
+      "amount_out": 340.00,
+      "balance": 1534.07
+    },
+    {
+      "date": "14 Nov19",
+      "description": ".:$7( (<5 *'/7'.(** )3, 53",
+      "type": "FPI",
+      "amount_in": 870.00,
+      "amount_out": 0.00,
+      "balance": 2404.04
+    },
+    {
+      "date": "17 Nov19",
+      "description": "KINGS TUN CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 56.60,
+      "balance": 2347.44
+    },
+    {
+      "date": "18 Nov19",
+      "description": "LNK COOPERATIVE SW CD 7420 17NOV19",
+      "type": "CPT",
+      "amount_in": 170.00,
+      "amount_out": 0.00,
+      "balance": 2177.44
+    },
+    {
+      "date": "19 Nov19",
+      "description": "WESTERN VILLA CD7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 185.60,
+      "balance": 1991.84
+    },
+    {
+      "date": "19 Nov19",
+      "description": "P ADAMCZUK KASA",
+      "type": "TFR",
+      "amount_in": 210.00,
+      "amount_out": 0.00,
+      "balance": 1781.84
+    },
+    {
+      "date": "22 Nov19",
+      "description": "BEDFORD TAVERN CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 198.00,
+      "balance": 1583.84
+    },
+    {
+      "date": "23 Nov19",
+      "description": "MCDONALDS DC 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 16.34,
+      "balance": 1567.05
+    },
+    {
+      "date": "26 Nov19",
+      "description": "KATE EYR G D LTD KEGD RP4679966305820600",
+      "type": "FPI",
+      "amount_in": 960.00,
+      "amount_out": 0.00,
+      "balance": 2527.05
+    },
+    {
+      "date": "27 Nov19",
+      "description": "LNK WEST NORWOOD 1 CD 7420 27NOV19",
+      "type": "CPT",
+      "amount_in": 70.00,
+      "amount_out": 0.00,
+      "balance": 2457.05
+    },
+    {
+      "date": "28 Nov19",
+      "description": "DELIGHT CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 133.45,
+      "balance": 2324.05
+    },
+    {
+      "date": "29 Nov19",
+      "description": "Amazon UK Marketpl CD 7420",
+      "type": "DEB",
+      "amount_in": 0.00,
+      "amount_out": 262.00,
+      "balance": 2062.05
+    }
+  ]
