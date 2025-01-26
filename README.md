@@ -1,1 +1,0 @@
-# Casca-AI-Coding-Challenge-2025
